@@ -21,7 +21,7 @@ UtilityService service1 = new();
 
 //tasks with ARRAY:
 
-service1.arrInt = [1,2, 8, 6, 4, 3, 88, 4, 45];
+service1.arrInt = [1,2, 8, 6, 4, 3, 88,4, 4, 45];
 
 //Console.WriteLine(service1.BiggestElem());
 

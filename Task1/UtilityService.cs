@@ -109,13 +109,8 @@ namespace ClassInTheAcademy.Task1
 
         public int CheckBigLetter()
         {
-            int count = 0;
-
             int res = word.Count(m =>  char.IsUpper(m));
-
             return res;
-           
-            
         }
 
 
@@ -156,11 +151,10 @@ namespace ClassInTheAcademy.Task1
 
         public void Unick()
         {
-            
-            
+
+          
 
 
-            
 
         }
     }
